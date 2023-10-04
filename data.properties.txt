@@ -1,0 +1,19 @@
+browser         Chrome
+url             https://demo.vtiger.com/vtigercrm/
+Campaignname    Wipro
+tagetaudience   20
+sponsor         hp
+targetsize      100
+Date            4/10/2023
+numsent         20
+expectedsalescount 200
+expectedresponsecount  100
+actualsalescount  70
+actualresponsecount  50
+budgetcost  5000
+actualcost  6000
+expectedroi 3000
+actualroi  4000
+description Wipro is IT Company
+expectedrevenue  2000
+product  Laptop
